@@ -12,7 +12,8 @@ I am interested in **Robotics and Automation**, where I explore the potential of
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khansa%20Malik-blue)](https://www.linkedin.com/in/khansa-malik/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khansa%20Malik-blue)](https://www.linkedin.com/in/khansa-malik-911b26348/)
+
 
 ---
 
